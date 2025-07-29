@@ -1,16 +1,9 @@
 # weatherku
 
-A new Flutter project.
+Weather project with detect location, weather condition and change Theme.
 
-## Getting Started
+<img width="411" height="878" alt="image" src="https://github.com/user-attachments/assets/9fe5b3cd-f04e-42ab-b3fe-2e3921f1a2ec" />
+<img width="408" height="865" alt="image" src="https://github.com/user-attachments/assets/ae171204-3b82-452e-84c0-50bec93ef97d" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
